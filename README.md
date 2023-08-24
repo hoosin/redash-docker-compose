@@ -29,3 +29,8 @@ With the above command, You can access the local Redash from http://localhost:80
 ```shell
 make stop
 ```
+
+
+### Redash version
+If you wish to deploy a different version of Redash, please make direct edits to the ```./docker-compose.yml``` file.
+Refer to the relevant version at: https://hub.docker.com/r/redash/redash/tags.
