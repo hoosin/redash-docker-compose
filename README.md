@@ -21,10 +21,15 @@ git clone git@github.com:hoosin/redash-deploy.git
 ```shell
 make setup
 ```
+- starts the service
+
+```shell
+make start
+```
 
 With the above command, You can access the local Redash from http://localhost:8000/
 
-### Stop the service
+### Stop
 
 ```shell
 make stop
