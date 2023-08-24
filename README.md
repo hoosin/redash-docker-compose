@@ -1,6 +1,6 @@
 ## Redash on Mac
 
-deploy [redash](https://github.com/getredash/redash) using docker-compose
+Deploy [redash](https://github.com/getredash/redash) using docker-compose
 
 Prerequisites:
 
